@@ -12,9 +12,6 @@ Crafted with love by **[Bagus Subagja](https://www.linkedin.com/in/bagussubagja/
 
 Feel free to fork and modify this package to suit your needs - that's much more enjoyable than stealing or claiming my code 😊
 
-## Preview 🪟
-![Slide 16_9 - 1](https://github.com/user-attachments/assets/55e59d51-e0da-4562-879e-ae50adaced33)
-
 https://github.com/user-attachments/assets/f7266dc9-c4a2-4fba-8684-0ead2f678180
 
 ## Update 1.1.0
