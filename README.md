@@ -6,14 +6,6 @@ A Flutter plugin for liveness detection with randomized challenge response metho
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/50b64954ad654b65b0424d266399b026)](https://app.codacy.com/gh/bagussubagja/flutter-liveness-detection-randomized-plugin/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-## Author
-
-Crafted with love by **[Bagus Subagja](https://www.linkedin.com/in/bagussubagja/)** ❤️
-
-Feel free to fork and modify this package to suit your needs - that's much more enjoyable than stealing or claiming my code 😊
-
-https://github.com/user-attachments/assets/f7266dc9-c4a2-4fba-8684-0ead2f678180
-
 ## Update 1.1.0
 - ⏱️ Added automatic cooldown feature after 3 failed verification attempts
 - 🔒 10-minute waiting period with persistent countdown (survives app restarts)
@@ -23,9 +15,6 @@ https://github.com/user-attachments/assets/f7266dc9-c4a2-4fba-8684-0ead2f678180
 - 🛠️ Fixed customizedLabel logic for proper skip challenge behavior
 - ✅ Added validation: `customizedLabel` must not be null when `useCustomizedLabel` is true
 
-## Update 1.0.6
-![Slide 16_9 - 9](https://github.com/user-attachments/assets/3a9b187a-ccfd-4542-a8d9-88b7ef7903a9)
-Face stretching already fixed on this version
 
 ## Features ✨
 
